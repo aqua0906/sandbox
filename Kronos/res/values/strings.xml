@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Entrance!</string>
+    <string name="app_name">Kronos</string>
+    <string name="play">PlayMovie</string>
+    <string name="movieTitle">TestMovie</string>
+</resources>
